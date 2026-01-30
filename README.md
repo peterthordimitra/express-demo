@@ -1,2 +1,4 @@
-# node server.js
-# http://localhost:3000
+- download
+- npm install
+- node server.js
+- http://localhost:3000
